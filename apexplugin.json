@@ -1,0 +1,36 @@
+{
+    "name": "Dynamic Typed Card",
+    "version": "1.0",
+    "description": "Dynamic Typed Card",
+    "keywords": ["Dynamic Typed Card"],
+    "homepage": "https://github.com/Owais928/Dynamic-Typed-Card",
+    "bugs": {
+      "url": "https://github.com/Owais928/Dynamic-Typed-Card/issues",
+      "email": "owner@oracletech.com.pk"
+    },
+    "license": "MIT",
+    "commercial": "No",
+    "author": {
+      "name": "Oracle Tech Solutions",
+      "email": "owner@oracletech.com.pk",
+      "url": "https://www.linkedin.com/in/developerowais/",
+      "twitter": "",
+      "donationUrl": ""
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Owais928/Dynamic-Typed-Card.git"
+    },
+    "oracle": {
+      "versions": ["23.2.0"],
+      "apex": {
+        "versions": ["23.2.0"],
+        "plugin": {
+          "internalName": "DYNAMIC_TYPED_CARD",
+          "type": "template component",
+          "demo": "https://portfolio.oracletech.com.pk/ords/r/ot/apex-plugins-by-oracle-tech/home",
+          "previewImage": "https://github.com/Owais928/Dynamic-Typed-Card/blob/main/DYNTYPCRD.gif?raw=true"
+        }
+      }
+    }
+  }
