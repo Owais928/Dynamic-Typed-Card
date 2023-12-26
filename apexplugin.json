@@ -22,7 +22,7 @@
       "url": "https://github.com/Owais928/Dynamic-Typed-Card.git"
     },
     "oracle": {
-      "versions": ["23.2.0"],
+      "versions": ["12.2.0.1.0, 19.3.0.0.0, 21.3.0.0.0"],
       "apex": {
         "versions": ["23.2.0"],
         "plugin": {
